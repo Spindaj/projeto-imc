@@ -54,7 +54,7 @@ form label, form input{
     display: block;
     margin-bottom: 1%;
     margin-left: 5%;
-        width: 26%;
+    width: 26%;
 }
 
 form button{
@@ -76,9 +76,7 @@ footer{
 }
 
 form input{
-    height: 4%;
-    padding: 2%;
-    font-size: larger;
+    border-radius: 5px;
 }
 
 form input:focus{
